@@ -44,11 +44,11 @@ class Config:
     LOG_GROUP=os.environ.get("LOG_GROUP", "")
 
     #Stream 
-    STREAM_URL=os.environ.get("STARTUP_STREAM", "https://www.youtube.com/watch?v=zcrUCvBD16k")
+    STREAM_URL=os.environ.get("STARTUP_STREAM", "https://youtu.be/bxnYFOixIoc")
    
     #Database
     DATABASE_URI=os.environ.get("DATABASE_URI", None)
-    DATABASE_NAME=os.environ.get("DATABASE_NAME", "VCPlayerBot")
+    DATABASE_NAME=os.environ.get("DATABASE_NAME", "AGORA VCBOT")
 
 
     #heroku
@@ -382,13 +382,13 @@ Tip: __You can easily change the CHAT config by adding the user account and bot 
 
 3. `BOT_TOKEN` : __[@Botfather](https://telegram.dog/BotFather)__
 
-4. `SESSION_STRING` : __Generate From here [GenerateStringName](https://repl.it/@subinps/getStringName)__
+4. `SESSION_STRING` : __Generate From here [GenerateStringName](https://t.me/agora_ssgenbot)__
 
 5. `CHAT` : __ID of Channel/Group where the bot plays Music.__
 
 6. `STARTUP_STREAM` : __This will be streamed on startups and restarts of bot. 
 You can use either any STREAM_URL or a direct link of any video or a Youtube Live link. 
-You can also use YouTube Playlist.Find a Telegram Link for your playlist from [PlayList Dumb](https://telegram.dog/DumpPlaylist) or get a PlayList from [PlayList Extract](https://telegram.dog/GetAPlaylistbot). 
+You can also use YouTube Playlist.Find a Telegram Link for your playlist from [PlayList Dumb](https://telegram.dog/team_agora) or get a PlayList from [PlayList Extract](https://telegram.dog/GetAPlaylistbot). 
 The PlayList link should in form `https://t.me/DumpPlaylist/xxx`
 You can also use the files from a channel as startup stream. For that just use the channel id or channel username of channel as STARTUP_STREAM value.
 For more info on channel play , read help from player section.__
