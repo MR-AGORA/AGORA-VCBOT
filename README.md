@@ -12,7 +12,7 @@
 
         
 
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/MR-AGORA/AGORA-VCBOT"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.heroku.com/deploy?template=https://github.com/MR-AGORA/AGORA-VCBOT"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
     
 
