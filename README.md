@@ -6,9 +6,18 @@
 
 #
 
+
+
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=TVItQUdPUkEvQUdPUkEtVkNCT1QgbWFpbg)
+        
+
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/MR-AGORA/AGORA-VCBOT"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+
+    
+
+
+[![Deploy](https://www.herokucdn.com/deploy)](https://telegram.dog/XTZ_H)
 
 ## Deploy to Railway
 <p><a href=https://github.com/subinps/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
